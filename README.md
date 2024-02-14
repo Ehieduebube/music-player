@@ -10,7 +10,7 @@ Display track information (artist, album, duration).
 Responsive design for seamless usage across devices.
 
 **Installation**
-Clone the repository:$ git clone https://github.com/ehieduebube/react-music-player.git
+Clone the repository:$ git clone https://github.com/ehieduebube/music-player.git
 Navigate to the project directory:$ cd music-player
 Install dependencies using npm: npm install
 
